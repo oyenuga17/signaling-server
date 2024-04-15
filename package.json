@@ -1,0 +1,16 @@
+{
+    "name": "stun-server",
+    "version": "1.0.0",
+    "description": "a stun server",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Oyenuga Oluwaseun",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.15.2",
+      "peer": "^1.0.2"
+    }
+  }
